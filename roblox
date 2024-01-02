@@ -1,0 +1,9 @@
+{
+  "FFlagHandleAltEnterFullscreenManually":false,
+  "FFlagDebugDisableOTAMaterialTexture":true,
+  "DFFlagDebugEnableInterpolationVisualizer":true,
+  "DFFlagDebugVisualizationImprovements":true,
+  "DFFlagDebugVisualizeAllPropertyChanges":true,
+  "DFFlagDebugVisualizerTrackRotationPredictions":true,
+  "FFlagDebugSimIntegrationStabilityTesting":true
+}
